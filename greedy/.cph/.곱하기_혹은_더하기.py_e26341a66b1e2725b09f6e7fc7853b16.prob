@@ -1,0 +1,1 @@
+{"name":"Local: 곱하기_혹은_더하기","url":"/Users/jay/Desktop/boj/greedy/곱하기_혹은_더하기.py","tests":[{"id":1683555088491,"input":"02984","output":"576"},{"id":1683555280544,"input":"567","output":"210"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jay/Desktop/boj/greedy/곱하기_혹은_더하기.py","group":"local","local":true}
