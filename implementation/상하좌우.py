@@ -21,6 +21,9 @@ for d in directions:
     if x + dx[i] < 1 or y + dy[i] < 1:
         continue
 
+    if x + dx[i] > n or y + dy[i] > n:
+        continue
+
     x = x + dx[i]
     y = y + dy[i]
 
