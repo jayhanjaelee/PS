@@ -1,0 +1,1 @@
+{"name":"Local: 문자열_재정렬","url":"/Users/jay/Desktop/boj/implementation/문자열_재정렬.py","tests":[{"id":1683815178932,"input":"K1KA5CB7","output":"ABCKK13"},{"id":1683815989957,"input":"AJKDLSI412K4JSJ9D","output":"ADDIJJJKKLSS20"}],"interactive":false,"memoryLimit":134217728,"timeLimit":1000,"srcPath":"/Users/jay/Desktop/boj/implementation/문자열_재정렬.py","group":"local","local":true}
