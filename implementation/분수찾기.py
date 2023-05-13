@@ -1,26 +1,26 @@
+# https://www.acmicpc.net/problem/1193
 def solution():
-    X = int(input())
+    n = int(input())
 
-    row, col = 1, 1
-    directions = [(0, 1), (1, -1), (1, 0), (-1, 1)]
+    index = 0
+    sum = 0
 
-    s = 0
-    for i in range(X - 1):
-        i %= 4
+    # 몇번째 그룹인지? (index)
+    while True:
+        index += 1
+        sum = int(index * (index + 1) / 2)
 
-        d_row = directions[i][0]
-        d_col = directions[i][1]
+        if n <= sum:
+            break
 
-        if i == 1:
-            s = 1
+    # 그룹내에서 몇번째 숫자인지?
+    num = int(n - (index * (index - 1) / 2))
 
-        if i == 3:
-            s = 2
-
-        row += d_row
-        col += d_col
-
-    print(f"{row}/{col}")
+    # 홀수 행인지 짝수 행인지?
+    if index % 2 == 0:
+        print(f"{num}/{index - num + 1}")
+    else:
+        print(f"{index - num + 1}/{num}")
 
     return
 
