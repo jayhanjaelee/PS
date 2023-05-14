@@ -67,3 +67,17 @@
 ### Solution
 
 ![img](./분수찾기.png)
+
+## 피보나치 수
+
+* https://www.acmicpc.net/problem/10870
+
+### Solution
+
+![img](./%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98_%EC%88%98_5.png)
+
+## 음계
+
+* https://www.acmicpc.net/problem/2920
+
+![img](./음계.png)
