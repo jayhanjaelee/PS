@@ -81,3 +81,9 @@
 * https://www.acmicpc.net/problem/2920
 
 ![img](./음계.png)
+
+## 그룹 단어 체커
+
+* https://www.acmicpc.net/problem/1316
+
+![img](%EA%B7%B8%EB%A3%B9_%EB%8B%A8%EC%96%B4_%EC%B2%B4%EC%BB%A4.png)
