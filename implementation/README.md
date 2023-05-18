@@ -93,3 +93,9 @@
 * https://www.acmicpc.net/problem/2941
 
 ![img](%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84_%EC%95%8C%ED%8C%8C%EB%B2%B3.png)
+
+## FizzBuzz
+
+* https://www.acmicpc.net/problem/14761
+
+![img](FizzBuzz.png)
