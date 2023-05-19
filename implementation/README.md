@@ -99,3 +99,9 @@
 * https://www.acmicpc.net/problem/14761
 
 ![img](FizzBuzz.png)
+
+## 프린터 큐
+
+* https://www.acmicpc.net/problem/1966
+
+![img](%ED%94%84%EB%A6%B0%ED%84%B0_%ED%81%90.png)
