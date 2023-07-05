@@ -8,4 +8,4 @@ for coin in coin_types:
     cnt += payback // coin
     payback %= coin
 
-print
+print(cnt)
